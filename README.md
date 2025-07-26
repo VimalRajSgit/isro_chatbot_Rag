@@ -1,5 +1,3 @@
-# isro_chatbot_Rag
-
 🌌 Unified ISRO Intelligence Assistant
 This repository contains a powerful, multi-functional AI assistant built with Streamlit, LangChain, and Groq. The assistant serves as a one-stop interface for interacting with various space and earth-observation data, focusing on the Indian Space Research Organisation (ISRO).
 
@@ -24,7 +22,7 @@ The repository also includes a standalone version of the ISRO Documents Q&A Syst
 
 ⚡ High-Performance LLMs: Powered by the ultra-fast Groq API for near-instantaneous LLM responses.
 
-Interactive UI: A user-friendly chat interface built with Streamlit.
+🖥️ Interactive UI: A user-friendly chat interface built with Streamlit.
 
 🛠️ Tech Stack & Architecture
 The system's core is the Unified Intelligence Assistant, which acts as a router. When a user sends a query, it's first sent to the get_intent function. This function uses a Groq LLM to classify the query and extract necessary parameters, outputting a JSON object. Based on the intent, the system calls the appropriate handler function.
@@ -79,13 +77,13 @@ venv\Scripts\activate
 python3 -m venv venv
 source venv/bin/activate
 4. Install Dependencies
+(Note: You will need to create a requirements.txt file from the imports in the Python scripts.)
+
 Bash
 
 pip install -r requirements.txt
-(Note: You will need to create a requirements.txt file from the imports in the Python scripts.)
-
 5. Set Up Environment Variables
-Create a file named .env in the root directory and add your API keys. You can get them from the respective websites.
+Create a file named .env in the root directory and add your API keys.
 
 GROQ_API_KEY="gsk_YourGroqApiKey"
 NASA_API_KEY="YourNasaApiKey" # Or leave as DEMO_KEY, but it's rate-limited
@@ -108,7 +106,6 @@ streamlit run isro_qna_system.py
 Once the app is running, open your web browser to the local URL provided by Streamlit (usually http://localhost:8501) and start asking questions!
 
 Example Prompts to Try:
-
 What is the purpose of the Aditya-L1 mission?
 
 Track SCATSAT-1
