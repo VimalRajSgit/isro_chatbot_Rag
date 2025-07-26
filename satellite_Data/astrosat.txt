@@ -1,0 +1,132 @@
+Of course. Here is the information specifically about the ASTROSAT satellite from the provided PDF, with tables formatted for a text document.
+
+ASTROSAT Mission
+Introduction and Mission
+ASTROSAT is India's first dedicated multi-wavelength space observatory, created for a more detailed understanding of our universe. A unique feature of the mission is its ability to perform simultaneous multi-wavelength observations of astronomical objects from a single satellite. ASTROSAT observes the universe in the optical, Ultraviolet, and low and high-energy X-ray regions of the electromagnetic spectrum.
+
+
+
+Scientific Objectives
+The scientific objectives of the ASTROSAT mission are:
+
+To understand high-energy processes in binary star systems that contain neutron stars and black holes.
+
+To estimate the magnetic fields of neutron stars.
+
+To study star birth regions and high-energy processes in star systems beyond our galaxy.
+
+To detect new, briefly bright X-ray sources in the sky.
+
+To perform a limited deep field survey of the Universe in the Ultraviolet region.
+
+Spacecraft Configuration and Features
+The ASTROSAT satellite is cuboid-shaped and is equipped with two solar arrays that generate 2100 Watts of power. Its orientation is precisely maintained by an Attitude and Orbit Control System (AOCS) that uses reaction wheels, magnetic torquers, and thrusters, with reference inputs from Sun and Star sensors and gyroscopes. After its launch, the spacecraft is managed by the Mission Operations Complex (MOX) at the ISRO Telemetry, Tracking and Command Network (ISTRAC) in Bangalore. Science data gathered by the payloads is telemetered to MOX, where it is then processed, archived, and distributed by the Indian Space Science Data Centre (ISSDC) near Bangalore.
+
+
+
+
+
+ASTROSAT Salient Features
++----------------------+------------------------------------------------------------------+
+| Feature              | Details                                                          |
++----------------------+------------------------------------------------------------------+
+| ORBIT                | 650 km Equatorial with 6 deg inclination                 |
+
+
+| LIFT-OFF MASS        | 1513 kg                                            |
+
+
+
+
+| DRY MASS             | 1470 kg                                                |
+
+
+| PHYSICAL DIMENSIONS  | 1.96 metre x 1.75 metre x 1.30 metre                   |
+
+
+| POWER                | Two solar arrays generating 2100 W, two Li-ion batteries (36 Ah)  |
+
+
+| PROPULSION           | Eight 11 Newton Hydrazine based Monopropellant Thrusters   |
+
+
+| CONTROL SYSTEM       | Zero momentum system with Sun/Star Sensors, Gyros, Reaction      |
+|                      | Wheels, Magnetic Torquers, and 11 N thrusters as actuators  |
+
+
+| MISSION LIFE         | 5 years                                                |
+
+
++----------------------+------------------------------------------------------------------+
+
+Scientific Payloads
+ASTROSAT carries five scientific payloads to observe distant celestial sources by relying on the visible, Ultraviolet, and X-ray light they emit.
+
+
+UVIT (Ultraviolet Imaging Telescope): This instrument consists of two telescopes designed for excellent image resolution over a large field of view. It observes the sky in the visible, near Ultraviolet, and far Ultraviolet regions. UVIT was jointly developed by the Indian Institute of Astrophysics (IIA), the Inter-University Centre for Astronomy and Astrophysics (IUCAA), ISRO, and the Canadian Space Agency.
+
+
+
+
+LAXPC (Large Area X-ray Proportional Counter): This payload is designed to study variations in X-ray emissions from sources like X-ray binaries and Active Galactic Nuclei. It measures spectral characteristics over a wide range of 3-80 keV. The payload was developed by the Tata Institute of Fundamental Research (TIFR) and the Raman Research Institute (RRI).
+
+
+
+
+SXT (Soft X-ray Telescope): The SXT is designed to study how the X-ray spectrum (0.3-8 keV) from distant celestial bodies varies over time. It uses a telescope with gold-coated foil mirrors that reflect X-rays onto a cooled Charge Coupled Device (CCD). It was developed by TIFR in collaboration with the University of Leicester, UK, and ISRO.
+
+
+
+CZTI (Cadmium Zinc Telluride Imager): The CZTI extends the satellite's capability to sense high-energy X-rays in the 10-100 keV range. It can also detect and study gamma-ray bursts. This payload was developed by TIFR and IUCAA in collaboration with ISRO.
+
+
+
+
+SSM (Scanning Sky Monitor): This instrument scans the sky to provide long-term monitoring of bright X-ray sources and to detect transient (short-duration) X-ray sources. These transient sources can then be studied in detail by ASTROSAT's other instruments. The SSM was developed by the ISRO Satellite Centre and IUCAA.
+
+
+
+Payloads Summary
++----------+------------+---------------------------+---------------------+-------------------------+
+| Payload  | Energy     | Description               | Angular Resolution  | Sensitivity             |
++----------+------------+---------------------------+---------------------+-------------------------+
+| SXT      | 0.3-8 keV  | X-ray foil mirror + CCD   | 3-4 arcmin          | ~0.01 milliCrab         |
+|          | | |          | (10,000 sec)  |
+
+
+
+
+
+| LAXPC    | 3-80 keV   | Large proportional        | ~5 arcmin (scan mode) | 0.1 milliCrab           |
+|          | | counters (3) |     | (1000 sec)   |
+
+
+
+
+
+
+| CZT-     | 10-100 keV | CZT array (hard X-ray     | 8 arcmin            | 0.5 milliCrab           |
+| imager   | | imager) |          | (10,000 sec)   |
+
+
+
+
+
+| SSM      | 2.5-10 keV | Sky monitors (3) on a     | 5-10 arcmin         | 30 milliCrab            |
+|          | | boom |          | (600 sec)      |
+
+
+
+
+| UVIT     | 1300-6500  | Twin RC telescopes        | 1.8 arc sec         | 20 magnitude            |
+|          | Angstroms  | (NUV, VIS, FUV) |          | (200 sec)      |
+
+
+
+
++----------+------------+---------------------------+---------------------+-------------------------+
+
+Launch Vehicle
+ASTROSAT was launched by India's Polar Satellite Launch Vehicle in its thirty-first flight, designated 
+
+PSLV-C30. This was the tenth flight of PSLV in its 'XL' configuration. The satellite, with a lift-off mass of 1513 kg, was placed into a 650 km orbit with an inclination of 6 degrees to the equator.

@@ -1,0 +1,179 @@
+Chandrayaan-2 Mission Overview
+Chandrayaan-2 is an Indian lunar mission designed to explore the Moon's south polar region, an area no country had visited before. The mission's goals were to improve the understanding of the Moon, demonstrate key technologies for deep-space missions, and inspire future generations of scientists and explorers.
+
+
+
+The spacecraft was launched on 
+
+July 22, 2019, aboard a Geosynchronous Satellite Launch Vehicle Mark-III (GSLV Mk-III). This three-stage vehicle is India's most powerful launcher, with a lift-off mass of 640 tonnes and a height of 43.43 m. The mission comprised three main modules: an 
+
+
+
+
+Orbiter, the Vikram Lander, and the Pragyan Rover.
+
+Orbiter
+The Chandrayaan-2 Orbiter was designed to be placed in a 100x100 km lunar polar orbit with a mission life of one year. It is capable of communicating with both the Indian Deep Space Network (IDSN) at Byalalu and the Vikram lander. The Orbiter carries eight scientific instruments to study the Moon from above.
+
+
+
+
+Orbiter Payloads
+Terrain Mapping Camera-2 (TMC-2)
+
+
+Objective: A continuation of the Chandrayaan-1 TMC, this instrument maps the lunar surface to generate high-resolution 3D maps and study the Moon's evolution.
+
+
+Parameters:
++----------------------------+-----------------------------+
+| Parameter                  | Value                       |
++----------------------------+-----------------------------+
+| Spectral band              | 0.5-0.8 µm pushbroom mode   |
+| Spatial resolution         | 5 m                         |
+| Swath                      | 20 km @ 100 km altitude     |
+| View angles (fore and aft) | ±25°                        |
++----------------------------+-----------------------------+
+
+Chandrayaan-2 Large Area Soft X-ray Spectrometer (CLASS)
+
+
+Objective: To map the abundance of major elements (Mg, Al, Si, Ca, Ti, Fe) on the lunar surface by measuring X-ray Fluorescence (XRF) spectra.
+
+
+Parameters:
++--------------------+------------------------------------+
+| Parameter          | Value                              |
++--------------------+------------------------------------+
+| Spatial resolution | 12.5 x 12.5 km @ 100 km altitude   |
+| Spectral resolution| 165 eV @ 5.9 keV                   |
+| Energy range       | 0.8-20 keV                         |
++--------------------+------------------------------------+
+
+Solar X-ray Monitor (XSM)
+
+
+Objective: A companion payload to CLASS, the XSM measures the intensity of solar radiation in X-rays to provide solar X-ray spectrum data as input for the CLASS instrument.
+
+
+Parameters:
++---------------------+-----------------------+
+| Parameter           | Value                 |
++---------------------+-----------------------+
+| FOV                 | 45 x 45 deg           |
+| Spectral resolution | < 250 eV @ 5.9 keV    |
+| Energy range        | 1-15 keV              |
++---------------------+-----------------------+
+
+Imaging IR Spectrometer (IIRS)
+
+
+Objective: To build on the discovery of water molecules by Chandrayaan-1's M3 payload by conducting global mineralogical mapping and confirming the presence of water/hydroxyl signatures over an extended wavelength range.
+
+
+Parameters:
++--------------------+-----------------+
+| Parameter          | Value           |
++--------------------+-----------------+
+| Spatial resolution | 80 m            |
+| Spectral bands     | 256             |
+| Spectral resolution| 20 nm           |
+| Spectral band      | 0.8-5 µm        |
++--------------------+-----------------+
+
+Dual Frequency Synthetic Aperture Radar (SAR)
+
+
+Objective: Provides enhanced capabilities over the S-band MiniSAR on Chandrayaan-1, using both L and S bands for greater penetration depth (~5-10m) to quantitatively estimate water-ice in polar regions and map regolith thickness.
+
+
+
+Parameters:
++--------------------+-------------+
+| Parameter          | Value       |
++--------------------+-------------+
+| Band               | L and S     |
+| Spatial resolution | 2-75 m      |
++--------------------+-------------+
+
+Chandrayaan-2 Atmospheric Compositional Explorer-2 (CHACE-2)
+
+
+Objective: A sequel to the CHACE experiment on Chandrayaan-1, this instrument conducts an in-situ study of the composition and distribution of the Moon's neutral exosphere.
+
+
+Parameters:
++-------------+-----------+
+| Parameter   | Value     |
++-------------+-----------+
+| Mass range  | 1-300 amu |
+| Resolution  | 0.5 amu   |
++-------------+-----------+
+
+Orbiter High Resolution Camera (OHRC)
+
+
+Objective: To provide very high-resolution images of the lunar surface. Its primary operational role was to image the landing site to ensure a safe touchdown for the Vikram lander, after which it would serve as a science payload.
+
+
+
+Parameters:
++--------------------+--------------+
+| Parameter          | Value        |
++--------------------+--------------+
+| Spatial resolution | 0.32 m       |
+| Spectral band      | Panchromatic |
+| Swath              | 12 km x 3 km |
++--------------------+--------------+
+
+Dual Frequency Radio Science (DFRS) Experiment
+
+
+Objective: To study the temporal variations and structure of the lunar ionosphere by analyzing how coherent radio signals at X and S band frequencies are perturbed as they pass through it.
+
+
+
+Vikram Lander
+Named after Dr. Vikram A. Sarabhai, the Father of the Indian Space Programme, the lander was designed to execute a soft landing on the lunar surface and function for one lunar day (about 14 Earth days). It carried three scientific payloads and one passive experiment.
+
+
+Lander Payloads
+
+Instrument for Lunar Seismic Activity (ILSA): A three-axis, MEMS-based seismometer designed to detect minute ground accelerations from moonquakes to characterize the seismicity around the landing site.
+
+
+
+Chandra’s Surface Thermo-physical Experiment (ChASTE): Designed to measure the vertical temperature gradient and thermal conductivity of the lunar surface by inserting a thermal probe up to 10 cm into the regolith.
+
+
+Langmuir Probe (LP): A 5 cm spherical probe mounted on a 1m boom, designed to measure the density, temperature, and temporal evolution of the plasma in the lunar ionosphere near the surface.
+
+
+
+Laser Retroreflector Array (LRA) (Passive Experiment): A passive instrument designed to help understand the dynamics of the Earth-Moon system via laser ranging studies.
+
+Pragyan Rover
+The 6-wheeled robotic rover, named 
+
+Pragyan (Sanskrit for 'wisdom'), was designed to travel up to 500 meters on the lunar surface, powered by solar energy. It communicates only with the lander and carried two payloads to analyze the elemental composition of the surface.
+
+
+
+Rover Payloads
+
+Alpha Particle X-ray Spectrometer (APXS): An instrument designed to determine the elemental composition (Na, Mg, Al, Si, Ca, Ti, Fe, etc.) of the lunar surface by bombarding it with alpha particles and X-rays from a Curium-244 radioactive source.
+
+
+
+
+Laser-Induced Breakdown Spectroscope (LIBS): An instrument that identifies and determines the abundance of elements by firing high-power laser pulses at the lunar surface, creating a plasma whose characteristic light emissions are then analyzed.
+
+
+
+Sources
+
+
+
+
+
+

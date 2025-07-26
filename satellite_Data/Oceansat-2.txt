@@ -1,0 +1,23 @@
+Oceansat-2 Satellite
+Oceansat-2 is a satellite mission designed to continue and enhance the operational services of its predecessor, Oceansat-1 (IRS-P4). Its mainframe systems are derived from previous Indian Remote Sensing (IRS) missions.
+
+Launch Details 🚀
+Launch Date: 2009-09-23
+
+Launch Vehicle: PSLV-C14
+
+Launch Site: Satish Dhawan Space Centre, Sriharikota
+
+Payload Instruments 🛰️
+Oceansat-2 carries three primary instruments:
+
+Ocean Colour Monitor (OCM): Developed by ISRO.
+
+Ku-band Pencil Beam scatterometer (SCAT): Developed by ISRO.
+
+Radio Occultation Sounder for Atmosphere (ROSA): A contribution from the Italian Space Agency (ASI).
+
+Metadata
+Source: MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.
+
+Last Updated: 2025-07-15

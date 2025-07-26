@@ -1,0 +1,32 @@
+KALPANA-1
+KALPANA-1, originally named Metsat, is India's first exclusive meteorological satellite. It operates from a Geo-synchronous Orbit and is currently commissioned and operational.
+
+Launch Details 🚀
+Launch Date: September 2002
+
+Launch Vehicle: Polar Satellite Launch Vehicle (PSLV)
+
+Lift-off Mass: 1060 kg
+
+Satellite Specifications
+Dry Mass: 495 kg
+
+Bus: I-1000
+
+Structure: Built with a light-weight Carbon Fibre Re-enforced Plastic (CFRP) structure.
+
+Power System: Features a uni power bus with an 18AH Ni-Cd battery and a single GaAs/Ge solar panel generating 640 watts.
+
+Attitude Control: Uses a 3-axis stabilized momentum biased system with linearly controlled magnetic torquers.
+
+Propulsion System: Equipped with a unified bi-propellant system, including a 440 N Apogee Motor and 22 N reaction control thrusters.
+
+Payload Instruments 🛰️
+Very High Resolution Radiometer (VHRR): Provides Earth imageries with a resolution of 2 km in the visible band and 8 km in both the thermal infrared and water vapour bands.
+
+Data Relay Transponder (DRT): Collects weather data from unattended data collection platforms and transmits it to the central Meteorological Data Utilisation Centre.
+
+Metadata
+Source: MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.
+
+Last Updated: 2025-07-15

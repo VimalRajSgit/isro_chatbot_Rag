@@ -1,0 +1,28 @@
+{
+  "satellite_name": "Oceansat-2",
+  "mission_purpose": "To provide continuity of operational services of Oceansat-1 (IRS-P4) with enhanced application potential.",
+  "heritage": "Mainframe systems are derived from previous Indian Remote Sensing (IRS) missions.",
+  "launch_details": {
+    "launch_date": "2009-09-23",
+    "launch_vehicle": "PSLV-C14",
+    "launch_site": "Satish Dhawan Space Centre, Sriharikota"
+  },
+  "payloads": [
+    {
+      "name": "Ocean Colour Monitor (OCM)",
+      "developed_by": "ISRO"
+    },
+    {
+      "name": "Ku-band Pencil Beam scatterometer (SCAT)",
+      "developed_by": "ISRO"
+    },
+    {
+      "name": "Radio Occultation Sounder for Atmosphere (ROSA)",
+      "developed_by": "Italian Space Agency (ASI)"
+    }
+  ],
+  "metadata": {
+    "source": "MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.",
+    "last_updated": "2025-07-15"
+  }
+}

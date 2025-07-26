@@ -1,0 +1,42 @@
+{
+  "satellite_name": "INSAT-3D",
+  "satellite_system": {
+    "name": "INSAT (Indian National Satellite System)",
+    "description": "A series of multipurpose Geo-stationary satellites launched by ISRO to satisfy the telecommunications, broadcasting, meteorology, and search and rescue needs of India.",
+    "commissioned_in": 1983,
+    "significance": "Largest domestic communication system in the Asia Pacific Region."
+  },
+  "launch_details": {
+    "launch_date": "2013-07-26",
+    "launch_vehicle": "Ariane 5",
+    "launch_site": "Guiana Space Centre"
+  },
+  "mission_type": "Multipurpose Geosynchronous Satellite",
+  "primary_objectives": [
+    "To provide an operational, environmental and storm warning system to protect life and property.",
+    "To monitor the earth’s surface and provide oceanic observations.",
+    "To provide data dissemination capabilities."
+  ],
+  "payload": {
+    "meteorological_payloads": [
+      "Imager",
+      "Sounder"
+    ],
+    "communication_transponders": {
+      "count": 2,
+      "band": "S-band",
+      "service": "Broadcast Satellite Services (BSS)"
+    }
+  },
+  "ground_segment": {
+    "control_facilities": [
+      "Hassan",
+      "Bhopal"
+    ],
+    "data_acquisition_and_processing": "Space Applications Centre, Bopal Campus, Ahmedabad, India"
+  },
+  "metadata": {
+    "source": "MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.",
+    "last_updated": "2025-07-15"
+  }
+}

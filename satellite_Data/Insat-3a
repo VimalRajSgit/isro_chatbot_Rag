@@ -1,0 +1,63 @@
+INSAT-3A Satellite
+
+INSAT-3A is a multipurpose satellite designed for a variety of services.
+
+Mission and Launch
+Mission Type: Multipurpose Satellite
+
+Launch Date: 2003-04-09
+
+Launch Vehicle: Ariane 5
+
+Launch Site: Guiana Space Centre
+
+Services
+INSAT-3A provides the following services:
+
+Telecommunications
+
+Television Broadcasting
+
+Meteorological Data
+
+Search & Rescue
+
+Payload Details
+The satellite carries a comprehensive suite of instruments.
+
+Communication Transponders
+Total Count: 24 transponders.
+
+Normal C-band: 12 transponders. 9 of these offer expanded coverage, while 3 provide India-specific coverage.
+
+Extended C-band: 6 transponders with India coverage.
+
+Ku-band: 6 transponders with India coverage.
+
+Beacon: Includes one Ku-band beacon.
+
+Meteorological Instruments
+Very High Resolution Radiometer (VHRR): A 3-channel radiometer with a resolution of 2 km for the visible band, and 8 km for both the thermal infrared and water vapour bands.
+
+Charge Coupled Device (CCD) Camera: A camera with a spatial resolution of 1 km that operates in the Visible and Short Wave Infrared bands.
+
+Data Relay Transponder (DRT)
+Name: Data Relay Transponder (DRT)
+
+Function: Operates in the UHF band to collect real-time hydro-meteorological data from unattended platforms. This data is then relayed using the Extended C-band.
+
+Search and Rescue Transponder
+Name: Satellite Aided Search and Rescue (SAS & R)
+
+Function: Contributes to the international program for satellite-aided search and rescue operations.
+
+Metadata
+Source: MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.
+
+Last Updated: 2025-07-15
+
+
+
+
+
+

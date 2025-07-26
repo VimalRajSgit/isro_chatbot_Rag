@@ -1,0 +1,37 @@
+{
+  "satellite_name": "OCEANSAT-3",
+  "alternate_name": "EOS-06 (Earth Observing Satellite-06)",
+  "mission_purpose": "To provide continuity of operational services from Oceansat-1, Oceansat-2, and SCATSAT-1 missions with enhanced application potential.",
+  "mission_capability": "Provides a unique opportunity for simultaneously measuring physical, biological, and atmospheric parameters from its instruments.",
+  "launch_details": {
+    "launch_date": "2022-11-26",
+    "launch_vehicle": "PSLV-C54",
+    "launch_site": "Satish Dhawan Space Centre, Sriharikota"
+  },
+  "payloads": [
+    {
+      "name": "Ocean Colour Monitor (OCM-3)",
+      "type": "13-band advanced imager",
+      "developed_by": "ISRO"
+    },
+    {
+      "name": "Scatterometer (SCAT-3)",
+      "type": "Ku-band instrument",
+      "developed_by": "ISRO"
+    },
+    {
+      "name": "Sea Surface Temperature Monitor (SSTM)",
+      "type": "2-channel monitor",
+      "developed_by": "ISRO"
+    },
+    {
+      "name": "ARGOS",
+      "type": "Data collection platform from various ocean-based platforms",
+      "developed_by": "CNES (French Space Agency)"
+    }
+  ],
+  "metadata": {
+    "source": "MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.",
+    "last_updated": "2025-07-15"
+  }
+}

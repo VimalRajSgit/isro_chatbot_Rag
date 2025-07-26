@@ -1,0 +1,18 @@
+{
+  "satellite_name": "SCATSAT-1",
+  "launch_details": {
+    "launch_date": "2016-09-26",
+    "launch_vehicle": "PSLV-C35",
+    "launch_site": "Satish Dhawan Space Centre, Sriharikota"
+  },
+  "payload": [
+    {
+      "name": "Ku-band Pencil Beam scatterometer (SCAT)",
+      "developed_by": "Space Applications Centre (SAC), ISRO"
+    }
+  ],
+  "metadata": {
+    "source": "MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.",
+    "last_updated": "2025-07-15"
+  }
+}

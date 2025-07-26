@@ -1,0 +1,91 @@
+Aditya-L1 Mission Overview
+Aditya-L1 is an Indian space mission dedicated to the study of the Sun. Its scientific objectives include studying coronal heating, solar wind acceleration, Coronal Mass Ejections (CME), the dynamics of the solar atmosphere, and temperature anisotropy.
+
+
+
+The mission was launched aboard the PSLV-C57 launch vehicle. It is the 59th flight of the Polar Satellite Launch Vehicle (PSLV) and the 25th mission using the more powerful PSLV-XL configuration. The launcher placed the Aditya-L1 spacecraft into a highly eccentric Earth-bound orbit. From there, the spacecraft uses its onboard Liquid Apogee Motor (LAM) to perform orbital maneuvers and travel 1.5 million kilometers from Earth to the Sun-Earth Lagrange point 1 (L1). At its destination, the spacecraft will be inserted into a halo orbit around the L1 point, from where it will conduct its scientific observations.
+
+
+
+
+
+Launch Vehicle and Mission Specifications
+
+Vehicle: PSLV-C57
+
+
+Vehicle Height: 44.4 m
+
+
+Lift-off Mass: 321 tonnes
+
+
+Spacecraft Mass: 1480.7 kg
+
+
+
+Launch Pad: Second Launch Pad (SLP), SDSC, SHAR
+
+
+PSLV-C57 Stages at a Glance
++-----------------+------------+--------------+----------------------+-----------------------+
+| Stage           | Length (m) | Diameter (m) | Propellant           | Propellant Mass (t)   |
++-----------------+------------+--------------+----------------------+-----------------------+
+| Stage 1 (PS1)   | 20         | 2.8          | Solid (HTPB based)   | 139                   |
+| (PSOM-XL x6)    | 12         | 1            | Solid (HTPB based)   | 12.2 each             |
+| Stage 2 (PS2)   | 12.8       | 2.8          | Liquid (UH25+N₂O₄)   | 41                    |
+| Stage 3 (HPS3)  | 3.6        | 2            | Solid (HTPB based)   | 7.65                  |
+| Stage 4 (PS4)   | 3.0        | 1.34         | Liquid (MMH+MON3)    | 2.5                   |
++-----------------+------------+--------------+----------------------+-----------------------+
+
+
+
+
+Scientific Payloads
+The Aditya-L1 spacecraft carries seven scientific payloads for a systematic study of the Sun. All payloads were indigenously developed in collaboration with various ISRO Centres and scientific institutes.
+
+
+
+
+
+VELC (Visible Emission Line Coronagraph): As the prime payload, VELC is a reflective coronagraph designed to study the solar corona and the dynamics of coronal mass ejections. It was developed by the Indian Institute of Astrophysics, Bengaluru.
+
+
+
+
+SUIT (Solar Ultra-violet Imaging Telescope): This is a UV telescope designed to image the solar disk, specifically the Photosphere and Chromosphere, in the near-ultraviolet wavelength range. It also measures solar irradiance variations in the near UV. It was developed by the Inter-University Centre for Astronomy and Astrophysics, Pune.
+
+
+
+
+
+
+SOLEXS (Solar Low Energy X-ray Spectrometer): This is a soft X-ray spectrometer designed to measure the solar soft X-ray flux to study solar flares. It was developed at the U R Rao Satellite Centre, Bengaluru.
+
+
+
+
+
+HEL1OS (High Energy L1 Orbiting X-ray Spectrometer): This is a hard X-ray spectrometer designed to study solar flares in high-energy X-rays. It was also developed at the U R Rao Satellite Centre, Bengaluru.
+
+
+
+
+ASPEX (Aditya Solar wind Particle Experiment): This payload is designed to study the solar wind and energetic ions, as well as their energy distribution. It comprises two subsystems:
+
+
+
+SWIS (Solar Wind Ion Spectrometer): A low-energy spectrometer to measure protons and alpha particles.
+
+
+STEPS (Suprathermal and Energetic Particle Spectrometer): A high-energy spectrometer to measure high-energy ions of the solar wind.
+
+ASPEX was developed at the Physical Research Laboratory, Ahmedabad.
+
+
+PAPA (Plasma Analyser Package for Aditya): This payload is also designed to study the solar wind and its composition, and to perform mass analysis of solar wind ions. It was developed at the Space Physics Laboratory, Vikram Sarabhai Space Centre, Thiruvananthapuram.
+
+
+
+
+MAG (Magnetometer): This payload is capable of measuring the low-intensity interplanetary magnetic field in space at the L1 point. To ensure accurate measurements away from the spacecraft's own magnetic field, it has two sets of magnetic sensors placed on a 6-meter deployable boom (one at the tip and one at the 3-meter midpoint). It was developed at the Laboratory for Electro-Optics Systems, Bengaluru.

@@ -1,0 +1,38 @@
+{
+  "mission_name": "SARAL-AltiKa",
+  "collaboration": "A joint mission of ISRO (Indian Space Research Organisation) and CNES (French Space Agency).",
+  "primary_objective": "To study the ocean from space using a radar altimetry system and to promote the maximum use of the ARGOS Data Collecting System.",
+  "mission_context": "Part of the global altimetry system, providing continuity to data from missions like TOPEX/Poseidon, Jason series, and ENVISAT for long-term monitoring of ocean circulation and sea-level changes.",
+  "payloads": [
+    {
+      "name": "AltiKa",
+      "developed_by": "CNES",
+      "type": "Ka-band Radar Altimeter",
+      "specifications": {
+        "frequency": "35.75 GHz",
+        "bandwidth": "500 MHz",
+        "significance": "The first oceanographic altimeter to use such a high frequency."
+      },
+      "advantages": "Provides more accurate measurements with improved spatial and vertical resolution, enabling better observation of ice, coastal areas, continental water bodies, and wave height.",
+      "limitations": "The Ka-band frequency is sensitive to rain, which can lead to signal attenuation."
+    },
+    {
+      "name": "ARGOS",
+      "type": "Data Collecting System",
+      "purpose": "Collects data from various platforms."
+    }
+  ],
+  "applications_and_goals": [
+    "Meso-scale studies in the open ocean",
+    "Coastal area monitoring",
+    "Seasonal forecasting",
+    "Hydrology",
+    "Climate studies",
+    "Development of operational oceanography"
+  ],
+  "data_contribution": "AltiKa data, along with data from other altimetry missions, contributes to improving climate understanding and forecasting capabilities through its assimilation into coupled ocean-atmosphere models, bio-chemistry models, and more.",
+  "metadata": {
+    "source": "MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.",
+    "last_updated": "2025-07-15"
+  }
+}

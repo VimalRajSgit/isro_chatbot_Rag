@@ -1,0 +1,51 @@
+
+ **PSLV-C18 Mission Overview**
+
+The PSLV-C18 was the twentieth flight of India's Polar Satellite Launch Vehicle and the seventh flight in its 'core-alone' configuration, which does not use solid strap-on motors[cite: 1541]. [cite_start]The mission launched a total payload mass of 1047 kg from the First Launch Pad at Satish Dhawan Space Centre (SDSC SHAR)[cite: 1540]. [cite_start]The primary payload was the Megha-Tropiques satellite, accompanied by three auxiliary payloads[cite: 1540, 1598].
+
+---
+
+### **Megha-Tropiques Satellite**
+
+[cite_start]Megha-Tropiques is a joint satellite mission between the Indian Space Research Organisation (ISRO) and the French National Centre for Space Studies (CNES)[cite: 1581]. [cite_start]It was launched on October 12, 2011[cite: 1648].
+
+#### **Mission Objective**
+
+[cite_start]The primary objective of the mission is to study the water cycle and energy exchanges in the tropics[cite: 1581, 1649]. [cite_start]It provides scientific data on the life cycle of convective systems, condensed water in clouds, water vapor, precipitation, and evaporation, which helps scientists refine climate and weather prediction models[cite: 1582, 1583, 1584].
+
+#### **Salient Features**
++-----------------------+-------------------------------------------------+
+| Feature               | Details                                         |
++-----------------------+-------------------------------------------------+
+| Lift-off Mass         | 1000 kg                                         |
+| Orbit                 | 867 km altitude with a 20-degree inclination    |
+| Period                | 102.16 min                                      |
+| Power                 | 1325 W (at End of Life)                         |
+| Battery               | Two 24 AH Ni-Cd batteries                       |
+| TTC                   | S-band                                          |
+| Solid State Recorder  | 16 Gb                                           |
++-----------------------+-------------------------------------------------+
+
+#### **Scientific Payloads**
+
+[cite_start]The Megha-Tropiques satellite carries four scientific instruments[cite: 1588, 1650]:
+
+1.  [cite_start]**MADRAS (Microwave Analysis and Detection of Rain and Atmospheric Structures)**: A multi-frequency microwave imager that scans at 18.7, 23.8, 36.5, 89, and 157 GHz[cite: 1640]. [cite_start]It has a spatial resolution ranging from 6 km to 40 km and a swath of about 1700 km[cite: 1645, 1646]. [cite_start]This payload was developed jointly by ISRO and CNES[cite: 1589].
+
+2.  [cite_start]**SAPHIR (Sondeur Atmospherique du Profil d'Humidite Intertropicale par Radiometrie)**: A millimeter-wave humidity sounder operating at 183 GHz[cite: 1652]. [cite_start]It has 6 channels to retrieve humidity profiles in six atmospheric layers up to 12 km in height[cite: 1653, 1655]. [cite_start]It has a spatial resolution of 10 km and a swath of 1705 km[cite: 1658, 1659]. [cite_start]This instrument was provided by CNES[cite: 1590].
+
+3.  [cite_start]**SCARAB (SCAnner for Radiation Budget)**: A four-channel instrument that measures the outgoing long-wave and short-wave radiation from the top of the atmosphere[cite: 1662, 1663]. [cite_start]It has a spatial resolution of 40 km and a swath of about 2242 km[cite: 1662, 1664]. [cite_start]This instrument was provided by CNES[cite: 1591].
+
+4.  [cite_start]**ROSA (Radio Occultation Sounder for Atmosphere)**: A GPS-based instrument that uses two frequency receivers (L1 and L2) to measure humidity and temperature profiles in the atmosphere[cite: 1686, 1687]. [cite_start]This payload was procured from Italy[cite: 1592].
+
+---
+
+### **Auxiliary Payloads**
+
+[cite_start]In addition to the primary satellite, PSLV-C18 launched three smaller auxiliary payloads[cite: 1598].
+
+* [cite_start]**Jugnu**: A 3 kg nanosatellite designed and developed by the Indian Institute of Technology, Kanpur[cite: 1600]. [cite_start]Its mission is to test an indigenously developed camera for Earth imaging, evaluate a GPS receiver for satellite navigation, and test a MEMS-based Inertial Measurement Unit (IMU) in space[cite: 1601].
+
+* [cite_start]**SRMSat**: A 10.9 kg nanosatellite developed by students and faculty of SRM University[cite: 1603]. [cite_start]It aims to address global warming and pollution by monitoring atmospheric Carbon Dioxide (CO₂) and water vapor (H₂O) using a grating spectrometer observing in the 900nm - 1700nm infrared range[cite: 1603, 1604].
+
+* [cite_start]**VesselSat-1**: A 28.7 kg microsatellite developed by LuxSpace of Luxembourg[cite: 1606]. [cite_start]It carries two Automatic Identification System (AIS) receivers to detect signals transmitted by ships at sea[cite: 1607].

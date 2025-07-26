@@ -1,0 +1,158 @@
+
+
+Chandrayaan-1 Mission Overview
+Chandrayaan-1 was India's first lunar spacecraft, marking ISRO's entry into interplanetary missions. The 1380 kg spacecraft was launched by the Polar Satellite Launch Vehicle, PSLV-C11. This was the first PSLV mission to use the upgraded 'PSLV-XL' configuration, which features stretched strap-on boosters (PSOM-XL) to increase payload capability.
+
+
+
+
+The PSLV-C11 vehicle, with a lift-off mass of 320 tonnes and a height of 44.5 m, placed Chandrayaan-1 into an Elliptical Transfer Orbit (ETO) of 255 km x 22,860 km. From this initial orbit, the spacecraft's own propulsion system was used to perform multiple maneuvers, raising its apogee and eventually inserting it into a 100 km circular polar orbit around the Moon.
+
+
+
+
+Scientific Payloads
+Chandrayaan-1 carried a suite of eleven scientific instruments: five developed in India and six from international partners selected through an Announcement of Opportunity (AO). These payloads were chosen to complement each other and address key scientific questions about the Moon.
+
+
+
+Prime Objectives of Payloads
++-----------------------------+---------------------------+
+| Prime Objectives            | Payload(s)                |
++-----------------------------+---------------------------+
+| Search for water-ice        | MiniSAR, HEX, SARA        |
+| Chemical Mapping            | C1XS, HEX                 |
+| Mineralogical Mapping       | HySI, SIR-2, M3           |
+| Topography Mapping          | LLRI, TMC                 |
+| Radiation Environment       | RADOM, HEX, C1XS          |
+| Magnetic Field Mapping      | SARA                      |
+| Volatile Transport          | HEX                       |
+| Lunar Atmospheric study     | MIP                       |
++-----------------------------+---------------------------+
+
+
+
+
+Details of Indian Payloads
+Terrain Mapping Camera (TMC)
+
+
+Objective: To map the topography of both the near and far sides of the Moon and prepare a 3-dimensional atlas with a high spatial resolution of 5 meters.
+
+
+Configuration: The TMC is a stereo camera that images in the panchromatic band (0.5 to 0.85 µm). It uses three linear detectors to capture fore, nadir, and aft views simultaneously, enabling the creation of digital elevation models. The payload, developed by ISRO, weighs 7 kg.
+
+
+
+
+Hyper Spectral Imager (HySI)
+
+
+Objective: To obtain spectroscopic data for mineralogical mapping of the lunar surface. This helps in understanding the mineral composition of the lunar crust and interior.
+
+
+
+
+Configuration: HySI maps the surface in 64 continuous bands from 0.4 to 0.95 µm with a spatial resolution of 80 m and a spectral resolution of 15 nm. Developed by ISRO, it weighs 4 kg.
+
+
+
+Lunar Laser Ranging Instrument (LLRI)
+
+
+Objective: To provide ranging data to determine the accurate altitude of the spacecraft, which helps in preparing a detailed topographical map of the Moon.
+
+
+
+Configuration: LLRI operates on the time-of-flight principle, using a Nd:YAG laser (1064 nm) to measure the roundtrip travel time of a light pulse. It can determine surface altitude with an accuracy of less than 5 meters. This ISRO-developed payload weighs 10 kg.
+
+
+
+
+
+High Energy X-ray Spectrometer (HEX)
+
+
+Objective: To study the emission of low-energy natural gamma-rays (30-270 keV) from the lunar surface, primarily from the decay of Uranium-238 and Thorium-232. This data helps identify regions with transported volatiles like water-ice and characterize lunar terrains.
+
+
+
+
+Configuration: The experiment uses Cadmium-Zinc-Telluride (CZT) detectors to achieve good energy resolution in the hard X-ray region. It has a spatial resolution of 33 km. Developed by ISRO, HEX has a mass of 16 kg.
+
+
+
+
+Moon Impact Probe (MIP)
+
+
+Objective: To demonstrate the technologies required for impacting a probe at a desired location on the Moon and to qualify technologies for future soft-landing missions. It also performs scientific exploration of the tenuous lunar atmosphere during its descent.
+
+
+
+
+
+Configuration: The 32 kg probe carried three instruments: a Radar Altimeter, a Video Imaging System, and a Mass Spectrometer. It was designed to separate from the main orbiter and impact the lunar surface.
+
+
+
+
+Details of International Payloads (Announcement of Opportunity)
+Chandrayaan-1 X-ray Spectrometer (C1XS)
+
+
+Objective: To carry out high-quality X-ray spectroscopic mapping to measure the abundance of major rock-forming elements like Magnesium (Mg), Aluminium (Al), and Silicon (Si) on the Moon's surface.
+
+
+Partners: Developed through an ESA collaboration between Rutherford Appleton Laboratory (UK) and ISRO Satellite Centre.
+
+
+Sub-keV Atom Reflecting Analyser (SARA)
+
+
+Objective: To image the Moon's surface using low-energy neutral atoms (10 eV - 2 keV) to study surface composition, solar wind-surface interaction, and lunar magnetic anomalies.
+
+
+
+Partners: An ESA collaboration between the Swedish Institute of Space Physics and Vikram Sarabhai Space Centre (ISRO).
+
+
+Near-IR Spectrometer (SIR-2)
+
+
+Objective: To analyze the lunar surface in various geological and mineralogical units to understand crustal composition and processes like basin formation and space weathering.
+
+
+
+
+Partners: Provided by the Max Planck Institute for Solar System Science, Germany, through ESA.
+
+
+Radiation Dose Monitor Experiment (RADOM)
+
+
+Objective: To characterize the radiation environment in near-lunar space in terms of particle flux and dose rate, which is crucial for planning future manned missions.
+
+
+
+Partners: Provided by the Bulgarian Academy of Sciences.
+
+
+Miniature Synthetic Aperture Radar (Mini-SAR)
+
+
+Objective: To detect water ice in the permanently shadowed regions of the lunar poles, up to a depth of a few meters.
+
+
+Partners: Provided by the Applied Physics Laboratory, Johns Hopkins University, and Naval Air Warfare Centre, USA, through NASA.
+
+
+Moon Mineralogy Mapper (M3)
+
+
+Objective: To characterize and map lunar surface mineralogy at high resolution to understand the Moon's geologic evolution and assess mineral resources.
+
+
+
+
+Partners: Provided by Brown University and the Jet Propulsion Laboratory (JPL), USA, through NASA.

@@ -1,0 +1,31 @@
+{
+  "mission_name": "Megha-Tropiques",
+  "collaboration": "Indo-French Joint Satellite Mission",
+  "primary_focus": "To study the water cycle and energy exchanges in the tropics.",
+  "main_objective": "To understand the life cycle of convective systems, their influence on tropical weather and climate, and their role in the associated energy and moisture budget of the atmosphere.",
+  "scientific_data_provided": [
+    "Condensed water in clouds",
+    "Water vapour in the atmosphere",
+    "Precipitation",
+    "Evaporation",
+    "Overall contribution of the water cycle to the tropical atmosphere"
+  ],
+  "orbit_details": {
+    "type": "Circular",
+    "inclination": "20° to the equator",
+    "significance": "The unique orbit aids climate research and helps scientists refine prediction models."
+  },
+  "capabilities": {
+    "viewing": [
+      "Day",
+      "Night",
+      "All-weather"
+    ],
+    "revisit_frequency_india": "Passes over India almost a dozen times per day.",
+    "assessment_type": "Provides near real-time assessment of the evolution of clouds."
+  },
+  "metadata": {
+    "source": "MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.",
+    "last_updated": "2025-07-15"
+  }
+}

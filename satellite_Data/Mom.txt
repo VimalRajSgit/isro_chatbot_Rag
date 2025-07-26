@@ -1,0 +1,107 @@
+Mars Orbiter Mission (MOM) Overview
+The Mars Orbiter Mission (MOM) is ISRO's first interplanetary mission to the planet Mars. The mission is primarily technological, designed to develop the capabilities required for the design, planning, management, and operations of an interplanetary mission. In addition to its technological goals, the mission also has scientific objectives, including the exploration of Mars' surface features, morphology, mineralogy, and atmosphere using five indigenous scientific instruments.
+
+
+
+
+
+The mission plan consists of three phases:
+
+
+Geo-centric Phase: The spacecraft was first injected into an Elliptic Parking Orbit around Earth by the PSLV-XL launch vehicle. A series of six engine burns then gradually raised its orbit to achieve a departure trajectory.
+
+
+
+
+Helio-centric Phase: The spacecraft traveled for approximately 300 days in a trajectory around the Sun, known as a Hohmann Transfer Orbit, to intercept Mars' orbit with the least amount of fuel possible.
+
+
+
+
+Martian Phase: Upon reaching Mars, the spacecraft performed a crucial Mars Orbit Insertion (MOI) maneuver to be captured into an elliptical orbit around the planet.
+
+Spacecraft Specifications
+The Mars Orbiter spacecraft's design is a balanced mix based on the flight-proven IRS/INSAT/Chandrayaan-1 platforms, with necessary improvisations for an interplanetary mission.
+
+Salient Features of the Space Segment
++-----------------------+------------------------------------------------------------------+
+| Feature               | Specifications                                                   |
++-----------------------+------------------------------------------------------------------+
+| Mass                  | ~1340 kg                                             |
+
+
+| Structures            | Aluminum and Composite Fiber Reinforced Plastic (CFRP) sandwich  |
+|                       | construction; modified I-1 K Bus                     |
+
+
+| Propulsion            | Bi-propellant system (MMH + N₂O₄) with 852 kg of propellant.|
+
+
+|                       | Features a 440N Liquid Engine for main maneuvers and eight 22N   |
+|                       | thrusters for attitude control.               |
+
+
+
+| Power System          | A single solar array with three panels (1.8m x 1.4m each)        |
+|                       | generating 840 W in Martian orbit. A 36Ah Li-ion    |
+
+
+|                       | battery provides power during eclipses.             |
+
+
+| Communication         | S-Band system for both Telemetry/Telecommand (TTC) and data      |
+|                       | transfer. Equipped with Low Gain (LGA), Mid Gain    |
+
+
+|                       | cite_start, and High Gain (HGA) antennas.                |
+
+
+| Attitude and Orbit    | Uses Star sensors, Sun sensors, an Inertial Reference Unit,      |
+| Control System        | and accelerometers for navigation. Actuators include |
+
+
+|                       | Reaction Wheels and thrusters.                      |
+
+
++-----------------------+------------------------------------------------------------------+
+
+Scientific Payloads
+The Mars Orbiter Mission carries five scientific payloads to study the Martian environment.
+
+Mars Color Camera (MCC)
+
+
+Objective: This tri-color camera provides images and information about Mars' surface features and composition. It is used to monitor dynamic events and weather on the planet, as well as to probe its two moons, Phobos and Deimos. It also provides context for the other science payloads.
+
+
+
+
+
+Thermal Infrared Imaging Spectrometer (TIS)
+
+
+Objective: TIS measures thermal emissions from the Martian surface, allowing it to operate during both day and night. From these measurements, it can estimate temperature and emissivity, which helps in mapping the surface composition and mineralogy of Mars.
+
+
+
+
+Methane Sensor for Mars (MSM)
+
+
+Objective: MSM is designed to measure Methane (CH₄) in the Martian atmosphere with parts-per-billion (PPB) accuracy and to map its sources. As it relies on measuring reflected solar radiation, data is acquired only over the illuminated parts of Mars.
+
+
+
+
+Lyman Alpha Photometer (LAP)
+
+
+Objective: This instrument measures the relative abundance of deuterium and hydrogen in the upper Martian atmosphere by observing Lyman-alpha emissions. The Deuterium to Hydrogen (D/H) ratio is a key indicator for understanding the process of water loss from the planet over time.
+
+
+
+
+Mars Exospheric Neutral Composition Analyser (MENCA)
+
+
+Objective: MENCA is a quadrupole mass spectrometer that analyzes the neutral composition of the Martian exosphere. It can measure particles in the mass range of 1 to 300 atomic mass units (amu) with unit mass resolution. The payload has heritage from the CHACE instrument on the Chandrayaan-1 mission.

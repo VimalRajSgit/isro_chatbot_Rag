@@ -1,0 +1,71 @@
+{
+  "satellite_name": "INSAT-3A",
+  "mission_type": "Multipurpose Satellite",
+  "launch_details": {
+    "launch_date": "2003-04-09",
+    "launch_vehicle": "Ariane 5",
+    "launch_site": "Guiana Space Centre"
+  },
+  "services": [
+    "Telecommunications",
+    "Television Broadcasting",
+    "Meteorological",
+    "Search & Rescue"
+  ],
+  "payload": {
+    "communication_transponders": {
+      "total_count": 24,
+      "bands": [
+        {
+          "type": "Normal C-band",
+          "count": 12,
+          "coverage": "9 transponders provide expanded coverage and 3 have India coverage."
+        },
+        {
+          "type": "Extended C-band",
+          "count": 6,
+          "coverage": "India coverage"
+        },
+        {
+          "type": "Ku-band",
+          "count": 6,
+          "coverage": "India coverage"
+        }
+      ],
+      "beacon": "One Ku-band beacon"
+    },
+    "meteorological_instruments": [
+      {
+        "name": "Very High Resolution Radiometer (VHRR)",
+        "channels": 3,
+        "resolution": {
+          "visible_band": "2 km",
+          "thermal_infrared_band": "8 km",
+          "water_vapour_band": "8 km"
+        }
+      },
+      {
+        "name": "Charge Coupled Device (CCD) Camera",
+        "bands": [
+          "Visible",
+          "Short Wave Infrared"
+        ],
+        "spatial_resolution": "1 km"
+      }
+    ],
+    "data_relay_transponder": {
+      "name": "Data Relay Transponder (DRT)",
+      "operating_band": "UHF",
+      "purpose": "Real-time hydro-meteorological data collection from unattended platforms.",
+      "relay_band": "Extended C-band"
+    },
+    "search_and_rescue_transponder": {
+      "name": "Satellite Aided Search and Rescue (SAS & R)",
+      "contribution": "Part of the international Satellite Aided Search and Rescue programme."
+    }
+  },
+  "metadata": {
+    "source": "MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.",
+    "last_updated": "2025-07-15"
+  }
+}

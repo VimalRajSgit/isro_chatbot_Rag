@@ -1,0 +1,126 @@
+Youthsat Mission Overview
+Youthsat is a joint Indo-Russian stellar and atmospheric satellite mission designed to involve students from universities in space technology and research. It is the second satellite in the Indian Mini Satellite (IMS) series, which is a versatile 100 kg class platform. The primary goal of the Youthsat mission is to investigate the relationship between solar variability and changes in the Earth's thermosphere and ionosphere.
+
+
+
+
+
+The 92 kg satellite was launched on 
+
+April 20, 2011, aboard the PSLV-C16 launch vehicle from the SHAR Centre in Sriharikota, India. It was placed into a circular polar Sun-synchronous orbit at an altitude of approximately 820 km.
+
+
+
+Spacecraft Specifications
+Youthsat is built on the IMS-1 bus, a 3-axis stabilized platform.
+
+
+
+Youthsat Mainframe Specifications
++-------------------------+-------------------------------------------------------------+
+| Feature                 | Specification                                               |
++-------------------------+-------------------------------------------------------------+
+| Bus                     | IMS-1 Bus                                        |
+
+
+| Mission Life            | 2 years                                    |
+
+
+
+| Lift-off Mass           | 92.8 kg                                          |
+
+
+| Power                   | Solar Panels: 230 W (End of Life)           |
+
+
+
+|                         | Battery: 10.5 Ah Lithium-ion               |
+
+
+
+| Data Rate               | 8 Mbps                                           |
+
+
+| Recorder                | 16 Gb Solid State Recorder                       |
+
+
+| Stabilization           | 3-axis stabilization                       |
+
+
+
+| Pointing Accuracy       | < 0.1 deg                                        |
+
+
+| Propulsion              | Monopropellant System with a single 1N thruster  |
+
+
++-------------------------+-------------------------------------------------------------+
+
+Scientific Payloads
+The satellite carries three scientific payloads—two from India and one from Russia—that form a unique and comprehensive package for studying the composition, energetics, and dynamics of the Earth's upper atmosphere.
+
+RaBIT (Radio Beacon for Ionospheric Tomography)
+
+
+Origin: India 
+
+
+Objective: The main objective is to map the Total Electron Content (TEC) of the Earth's ionosphere. Ionospheric tomography is a powerful tool for understanding the spatial variability of the ionosphere, which is crucial as the ionosphere affects the accuracy of navigation satellites.
+
+
+
+
+
+Method: The payload transmits two phase-coherent frequencies (150 MHz and 400 MHz) to a chain of ground receivers. By measuring the phase difference between these signals, scientists can estimate the TEC along the signal path.
+
+
+LIVHySI (Limb Viewing Hyper Spectral Imager)
+
+
+Origin: India 
+
+
+Objective: To perform airglow measurements of the Earth's upper atmosphere at altitudes between 80 km and 600 km. Airglow emissions serve as tracers for the physical and chemical processes occurring in the upper atmosphere.
+
+
+
+
+
+Method: The instrument continuously images the Earth's limb (the edge of the atmosphere) in a spectral range of 450 nm to 950 nm. Limb viewing provides greater sensitivity as the line of sight contains up to sixty times more emitting material than a nadir (downward-looking) view.
+
+
+
+
+LIVHySI Specifications:
++---------------------+---------------------------------+
+| Feature             | Specification                   |
++---------------------+---------------------------------+
+| Altitude Coverage   | 80 km to 600 km      |
+
+
+
+| Spectral Coverage   | 450 nm to 950 nm |
+
+
+
+| Data Rate           | 4 Mbps               |
+
+
++---------------------+---------------------------------+
+
+SOLRAD (Solar Radiation Experiment)
+
+
+Origin: Russia (Skobeltsyn Institute of Nuclear Physics, Moscow State University) 
+
+
+
+
+
+Objective: To study solar activity by measuring the time variations and spectral parameters of solar flare X-rays and gamma-rays, as well as charged particle fluxes in the Earth's polar cap regions. It can also study astrophysical gamma-ray bursts.
+
+
+
+
+
+Method: The payload uses an X-ray and gamma-ray detector-spectrometer and a charged particle detector system. The SOLRAD payload is continuously ON throughout the orbit to monitor solar activity and its effects on the Earth's magnetosphere and radiation belts.

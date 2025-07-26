@@ -1,0 +1,47 @@
+{
+  "satellite_name": "KALPANA-1",
+  "original_name": "Metsat",
+  "mission_type": "Exclusive Meteorological Satellite",
+  "orbit": "Geo-synchronous Orbit",
+  "status": "Commissioned and operational",
+  "launch_details": {
+    "launch_date": "September 2002",
+    "launch_vehicle": "Polar Satellite Launch Vehicle (PSLV)",
+    "lift_off_mass": "1060 kg"
+  },
+  "satellite_specifications": {
+    "dry_mass": "495 kg",
+    "bus": "I-1000",
+    "structure": "Light-weight Carbon Fibre Re-enforced Plastic (CFRP)",
+    "power_system": {
+      "bus_type": "Uni power bus",
+      "battery": "18AH Ni-Cd",
+      "solar_panel": "Single GaAs/Ge panel generating 640 watts"
+    },
+    "attitude_control": "3-axis stabilized momentum biased system with linearly controlled magnetic torquers.",
+    "propulsion_system": {
+      "type": "Unified bi-propellant system",
+      "apogee_motor_thrust": "440 N",
+      "reaction_control_thrust": "22 N"
+    }
+  },
+  "payload": [
+    {
+      "name": "Very High Resolution Radiometer (VHRR)",
+      "purpose": "Provides Earth imageries.",
+      "resolution": {
+        "visible_band": "2 km",
+        "thermal_infrared_band": "8 km",
+        "water_vapour_band": "8 km"
+      }
+    },
+    {
+      "name": "Data Relay Transponder (DRT)",
+      "purpose": "Collects weather data from un-attended data collection platforms and transmits it to the central Meteorological Data Utilisation Centre."
+    }
+  ],
+  "metadata": {
+    "source": "MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.",
+    "last_updated": "2025-07-15"
+  }
+}

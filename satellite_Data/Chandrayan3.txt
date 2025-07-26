@@ -1,0 +1,120 @@
+Chandrayaan-3 Mission Overview
+Chandrayaan-3 is India's third lunar exploration mission, designed to demonstrate the key capabilities of soft landing on the lunar surface and deploying a rover to conduct in-situ scientific experiments. The mission serves as a follow-up to Chandrayaan-2 and aims to support ISRO's future interplanetary missions.
+
+
+
+
+The spacecraft was launched aboard the 
+
+LVM3-M4, ISRO's operational heavy-lift launch vehicle. The mission consists of three main components: a Propulsion Module, a Lander Module, and a Rover.
+
+
+
+LVM3-M4 Vehicle Characteristics
++-------------------+----------------------+
+| Height            | 43.5 m               |
+| Lift-off Mass     | 642 t                |
+| Propulsion Stages | 2xS200 (Solid)       |
+|                   | L110 (Liquid)        |
+|                   | C25 (Cryo)           |
+| Payload Fairing   | 5 m OPLF             |
++-------------------+----------------------+
+
+Propulsion Module
+The main function of the Propulsion Module was to carry the Lander and Rover combination from the launch vehicle's injection orbit to a 100 km circular polar orbit around the Moon. After separating from the lander, it continues to orbit the Moon, operating its single experimental payload.
+
+
+
+Propulsion Module Specifications
++--------------------+---------------------------------------------------------------+
+| Mission life       | 3 to 6 months (for operating its experimental payload)  |
+
+
+| Total Mass         | 2145.01 kg                                          |
+
+
+| Propellant Mass    | 1696.39 kg                                          |
+
+
+| Power Generation   | 738 W                                               |
+
+
+| Propulsion System  | Bi-Propellant System (MMH + MON3)                   |
+
+
++--------------------+---------------------------------------------------------------+
+
+Propulsion Module Payload
+
+SHAPE (Spectro-polarimetry of HAbitable Planet Earth): This is an experimental payload designed to study the spectro-polarimetric signatures of Earth from lunar orbit. Its observations in the near-infrared (NIR) wavelength range of 1-1.7 µm can be used to study exoplanets that might have characteristics similar to Earth.
+
+
+
+
+
+Lander Module
+The Lander's primary objective was to demonstrate a safe and soft landing on the lunar surface. It is equipped with three scientific payloads designed to operate for one lunar day (approximately 14 Earth days).
+
+
+Lander Specifications
++---------------------+-----------------------------------------------------+
+| Mission life        | 1 Lunar day (14 Earth days)               |
+
+
+| Mass                | 1749.86 kg (including Rover)              |
+
+
+| Power               | 738 W                                     |
+
+
+| Payloads            | 3                                         |
+
+
+| Landing site        | 69.367621° S, 32.348126° E                |
+
+
++---------------------+-----------------------------------------------------+
+
+Lander Payloads
+
+RAMBHA-LP (Langmuir Probe): Its purpose is to measure the near-surface plasma (ions and electrons) density and how it changes over time.
+
+
+
+ChaSTE (Chandra’s Surface Thermo-physical Experiment): This instrument carries out measurements of the thermal properties, such as thermal conductivity and temperature, of the lunar surface near the polar region.
+
+
+
+ILSA (Instrument for Lunar Seismic Activity): This payload's objective is to measure the seismicity around the landing site, helping to delineate the structure of the lunar crust and mantle.
+
+
+Rover Module
+The Rover's objective was to demonstrate roving capabilities on the lunar terrain. It is designed to operate for one lunar day, communicating with the Lander, and carries two payloads to analyze the elemental composition of the landing site.
+
+
+Rover Specifications
++----------------+-----------------------------+
+| Mission Life   | 1 Lunar day       |
+
+
+| Mass           | 26 kg             |
+
+
+| Power          | 50 W              |
+
+
+| Payloads       | 2                 |
+
+
+| Communication  | With Lander only  |
+
+
++----------------+-----------------------------+
+
+Rover Payloads
+
+APXS (Alpha Particle X-Ray Spectrometer): This instrument is designed to derive the chemical composition of the lunar surface, which in turn helps to infer its mineralogical composition.
+
+
+
+LIBS (Laser-Induced Breakdown Spectroscope): The purpose of LIBS is to determine the elemental composition (Mg, Al, Si, K, Ca, Ti, Fe) of the lunar soil and rocks around the landing site.

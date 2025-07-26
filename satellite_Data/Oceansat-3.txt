@@ -1,0 +1,25 @@
+OCEANSAT-3 (EOS-06)
+OCEANSAT-3, also known as EOS-06 (Earth Observing Satellite-06), is a satellite mission designed to continue and enhance the operational services of the Oceansat-1, Oceansat-2, and SCATSAT-1 missions. It offers a unique capability for simultaneously measuring physical, biological, and atmospheric parameters using its onboard instruments.
+
+Launch Details 🚀
+Launch Date: 2022-11-26
+
+Launch Vehicle: PSLV-C54
+
+Launch Site: Satish Dhawan Space Centre, Sriharikota
+
+Payload Instruments 🛰️
+OCEANSAT-3 is equipped with four primary instruments:
+
+Ocean Colour Monitor (OCM-3): A 13-band advanced imager developed by ISRO.
+
+Scatterometer (SCAT-3): A Ku-band instrument developed by ISRO.
+
+Sea Surface Temperature Monitor (SSTM): A 2-channel monitor developed by ISRO.
+
+ARGOS: A data collection platform for various ocean-based systems, developed by CNES (French Space Agency).
+
+Metadata
+Source: MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.
+
+Last Updated: 2025-07-15

@@ -1,0 +1,47 @@
+SARAL-AltiKa Mission
+
+SARAL-AltiKa is a joint satellite mission between ISRO (Indian Space Research Organisation) and CNES (French Space Agency). Its primary objective is to study the ocean from space using a radar altimetry system and to promote the use of the ARGOS Data Collecting System.
+
+The mission is a key part of the global altimetry system, providing data continuity from previous missions like TOPEX/Poseidon, the Jason series, and ENVISAT for the long-term monitoring of ocean circulation and sea-level changes.
+
+Launch Details 🚀
+Launch Date: 2013-02-25
+
+Launch Vehicle: PSLV-C20
+
+Launch Site: Satish Dhawan Space Centre
+
+Payload Instruments 🛰️
+The satellite carries two main payloads:
+
+AltiKa
+Developed by: CNES (French Space Agency)
+
+Type: Ka-band Radar Altimeter. It was the first oceanographic altimeter to use such a high frequency (35.75 GHz) with a bandwidth of 500 MHz.
+
+Advantages: Provides more accurate measurements with improved spatial and vertical resolution. This enables better observation of ice, coastal areas, continental water bodies, and wave height.
+
+Limitations: The Ka-band frequency is sensitive to rain, which can cause signal attenuation.
+
+ARGOS
+Type: A Data Collecting System used to collect data from various platforms.
+
+Applications and Data Contribution
+The data from SARAL-AltiKa supports a wide range of applications:
+
+Meso-scale studies in the open ocean
+
+Coastal area monitoring
+
+Seasonal forecasting
+
+Hydrology and climate studies
+
+Development of operational oceanography
+
+Data from the AltiKa instrument, combined with data from other altimetry missions, is crucial for improving climate understanding and forecasting. It's assimilated into various coupled ocean-atmosphere models and bio-chemistry models to enhance their predictive capabilities.
+
+Metadata
+Source: MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.
+
+Last Updated: 2025-07-15
