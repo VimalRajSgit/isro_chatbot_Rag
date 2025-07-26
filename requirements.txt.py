@@ -1,0 +1,11 @@
+python-dotenv==1.1.1
+groq==0.30.0
+langchain-huggingface==0.3.0
+chromadb==0.5.23
+langchain-groq==0.3.6
+langchain-core==0.3.68
+langchain==0.3.26
+langchain-community==0.3.27
+pandas==2.3.1
+plotly==6.2.0
+skyfield==1.53
