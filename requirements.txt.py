@@ -8,4 +8,6 @@ langchain==0.3.26
 langchain-community==0.3.27
 pandas==2.3.1
 plotly==6.2.0
+sentence-transformers ==  5.0.0
+crewai==0.148.0
 skyfield==1.53
