@@ -26,10 +26,11 @@ A comprehensive Streamlit-based application that provides real-time satellite tr
 ## 🏗️ Architecture
 
 ### Core Components
-1. **Intent Router**: AI-powered query classification using Groq LLaMA models
-2. **Satellite Tracker**: Real-time orbital mechanics using Skyfield
-3. **Document Q&A**: Vector-based retrieval with HuggingFace embeddings
-4. **Environmental API**: NASA POWER data integration with analysis tools
+1. **Intent Router (CrewAI-based)** – Autonomous agents analyze user requests and route them using Groq LLaMA models (with Groq-only fallback)
+2. **Satellite Tracker** – Real-time orbital mechanics using Skyfield
+3. **Document Q&A** – Vector-based retrieval with HuggingFace embeddings
+4. **Environmental API** – NASA POWER data integration with analysis tools
+
 
 ### Tech Stack
 - **Frontend**: Streamlit
@@ -39,6 +40,9 @@ A comprehensive Streamlit-based application that provides real-time satellite tr
 - **Environmental Data**: NASA POWER API
 - **Visualization**: Plotly
 - **Data Processing**: Pandas
+- - **AI/Agents**: CrewAI + Groq (Llama3)
+- **LLM Fallback**: Groq-only mode
+
 
 ## 🚀 Quick Start
 
@@ -86,6 +90,7 @@ streamlit
 requests
 python-dotenv
 groq
+crewai
 langchain-huggingface
 langchain-community
 langchain-groq
@@ -95,6 +100,7 @@ plotly
 skyfield
 chromadb
 sentence-transformers
+
 ```
 
 ## 🎯 Usage Examples
